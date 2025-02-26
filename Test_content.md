@@ -39,7 +39,6 @@
     - Data visualization
     - Regression analysis
   - 8. Business Analysis
-    - SWOT analysis
     - Decision-making models
     - Business process modeling
     - Key performance indicators (KPIs) analysis
@@ -48,7 +47,7 @@
     
 # Beta Test: SuperExcel
 <p>
-The "SuperExcel" function aims to automate data processing, completing tasks within 30 seconds. This beta test will evaluate its efficiency with various data types, including numerical and categorical data. Participants will input datasets to assess how well SuperExcel performs data cleaning, transformation, and analysis while maintaining accuracy.
+The "SuperExcel" function aims to automate data processing, completing tasks within 10 seconds. This beta test will evaluate its efficiency with various data types, including numerical and categorical data. Participants will input datasets to assess how well SuperExcel performs data cleaning, transformation, and analysis while maintaining accuracy.
 
 Additionally, this test will include a focus on data privacy. Participants will evaluate how SuperExcel handles sensitive information, ensuring compliance with data protection regulations. Key metrics will include execution speed, result accuracy, user satisfaction, and the effectiveness of privacy measures in safeguarding data throughout the processing workflow.
 </p>
